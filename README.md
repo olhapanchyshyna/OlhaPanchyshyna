@@ -34,4 +34,4 @@
  
 [website]: https://#
 [linkedin]: https://www.linkedin.com/in/olha-panchyshyna-44a509235
-[instagram]: https://https://www.instagram.com/olya.panchyshyna/?next=%2F
+[instagram]: https://www.instagram.com/olya.panchyshyna/?next=%2F
