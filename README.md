@@ -4,11 +4,11 @@
 
 ## I am a beginner in Front End Development. I've been studying html & css for a year now, js for 7 months. I like to develop and improve my skills
 
-- 💪 I like to write code
-- 🎉 I like to develop all kinds of mechanisms
-- 🥅 I am constantly learning new things
-- ⚡️ 
-- 🤹🏽 
+- 💻 I like to write code
+- 🌷 I like working with visuals and seeing what i create
+- 🎓 I am constantly learning new things
+- 🌏 i like to travel
+- 🐾 i love animals 
 
 ### 🧰 Languages and Tools:
 
@@ -34,6 +34,6 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olhapanchyshyna&langs_count=8&layout=compact" />
  
- 
+
 [linkedin]: https://www.linkedin.com/in/olha-panchyshyna-44a509235
 [instagram]: https://www.instagram.com/olya.panchyshyna/?next=%2F
