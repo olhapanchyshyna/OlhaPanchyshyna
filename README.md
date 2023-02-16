@@ -24,8 +24,8 @@
 ### Connect with me:
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="OleksiiMazurenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="OleksiiMazurenko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PanchyshynaOlha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PanchyshynaOlha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
             
 <br />
 <br />
@@ -34,4 +34,4 @@
  
 [website]: https://#
 [linkedin]: https://www.linkedin.com/in/olha-panchyshyna-44a509235
-[instagram]: https://#
+[instagram]: https://https://www.instagram.com/olya.panchyshyna/?next=%2F
