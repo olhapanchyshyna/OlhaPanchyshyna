@@ -7,8 +7,7 @@
 - 💻 I like to write code
 - 🌷 I like working with visuals and seeing what i create
 - 🎓 I am constantly learning new things
-- 🌏 i like to travel
-- 🐾 i love animals 
+
 
 ### 🧰 Languages and Tools:
 
