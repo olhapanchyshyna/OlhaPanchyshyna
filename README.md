@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=olhapanchyshyna)
 
-## I am a beginner in Front End Development. I've been studying html & css for a year now, js for 7 months. I like to develop and improve my skills
-
 - 💻 I like to write code
 - 🌷 I like working with visuals and seeing what i create
 - 🎓 I am constantly learning new things
