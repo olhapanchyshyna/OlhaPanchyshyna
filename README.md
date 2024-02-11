@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Olha
 
-![](https://komarev.com/ghpvc/?username=olhapanchyshyna)
 
 - 💻 I like to write code
 - 🌷 I like working with visuals and seeing what i create
