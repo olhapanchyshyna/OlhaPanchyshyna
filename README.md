@@ -12,11 +12,6 @@
 <br />
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="Olha | Telegram" width="30px" src="https://cdn.simpleicons.org/telegram/26A5E4" />][telegram]
-
-<br />
-<br />
+### Connect &nbsp; [<img alt="Olha | Telegram" width="26px" src="https://cdn.simpleicons.org/telegram/26A5E4" />][telegram]
 
 [telegram]: https://t.me/olya_panchyshyna
