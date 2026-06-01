@@ -10,6 +10,4 @@
 <br />
 <br />
 
-### Connect &nbsp; [<img alt="Olha | Telegram" width="26px" style="vertical-align: middle;" src="https://cdn.simpleicons.org/telegram/26A5E4" />][telegram]
-
-[telegram]: https://t.me/olya_panchyshyna
+<h3>Connect &nbsp; <a href="https://t.me/olya_panchyshyna"><img alt="Olha | Telegram" width="26px" align="absmiddle" src="https://cdn.simpleicons.org/telegram/26A5E4" /></a></h3>
