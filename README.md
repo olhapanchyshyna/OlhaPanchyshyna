@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Olha | Telegram" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" />][telegram]
+[<img align="left" alt="Olha | Telegram" width="30px" src="https://cdn.simpleicons.org/telegram/26A5E4" />][telegram]
 
 <br />
 <br />
