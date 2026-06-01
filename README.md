@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Olha
 
 
-- 💻 I like to write code
-- 🌷 I like working with visuals and seeing what i create
-- 🎓 I am constantly learning new things
+- 📊 Turning data into decisions — analytics, fixes & improvements
+- 🚀 Building marketing-driven landing pages
+- 🎯 Where analytics meets clean code
 
 
 ### 🧰 Languages and Tools:
