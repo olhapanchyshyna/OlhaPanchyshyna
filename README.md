@@ -1,6 +1,3 @@
-### Hi there 👋, I'm Olha
-
-
 - 📊 Turning data into decisions — analytics, fixes & improvements
 - 🚀 Building marketing-driven landing pages
 - 🎯 Where analytics meets clean code
